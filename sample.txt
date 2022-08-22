@@ -4,7 +4,7 @@
 		</title>
 	</head>
 	<body>
-		<section>
+		<section> 브런치기능
 		</section>
 		<header>
 		</header>
